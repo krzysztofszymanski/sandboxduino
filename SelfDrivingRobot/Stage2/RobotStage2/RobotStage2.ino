@@ -15,9 +15,9 @@ Servo headServo;
 
 // motors 
 // max motor speed, this one is with 9,6V battery pack, shield gets hot, really hot, need to rethink that
-uint8_t MAX_SPEED = 200;
+uint8_t MAX_SPEED = 255;
 int TURN_DELAY = 200;
-AF_DCMotor motorRight(3);
+AF_DCMotor motorRight(1);
 AF_DCMotor motorLeft(2);
 
 void setup() {
