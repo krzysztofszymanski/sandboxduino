@@ -1,5 +1,3 @@
-#include <AFMotor.h>
-#include <Servo.h>
 #include <Ultrasonic.h>
 
 // setup pins for ultrasonic
