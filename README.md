@@ -2,13 +2,13 @@
 
 This project contains code samples and libraries tested on Arduino UNO R3. You will find code samples for:
 
-SainSmart? LCD keypad shield
+SainSmart LCD keypad shield
 
 Dual Stepper Motor driver shield
 
 other basic experiments
 
-SainSmart? Stepper Motor Shield (Adafruit shield clone)
+SainSmart Stepper Motor Shield (Adafruit shield clone)
 
 Other tips and tricks that I've learned.
 
