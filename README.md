@@ -14,6 +14,6 @@ Other tips and tricks that I've learned.
 
 I needed to update and trace some problems with those libraries, so hope you will find this useful.
  
- #Visit a wiki pege: 
+ # Visit a wiki pege: 
  
  https://github.com/krzysztofszymanski/sandboxduino/wiki
